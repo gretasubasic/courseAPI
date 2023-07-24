@@ -1,5 +1,6 @@
-package com.example.courseDemo.lessons;
+package com.example.courseDemo.repository;
 
+import com.example.courseDemo.model.Lesson;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;

@@ -1,7 +1,9 @@
-package com.example.courseDemo.course;
+package com.example.courseDemo.controller;
 
-import com.example.courseDemo.topic.Topic;
-import com.example.courseDemo.topic.TopicService;
+import com.example.courseDemo.model.Course;
+import com.example.courseDemo.model.Topic;
+import com.example.courseDemo.service.CourseService;
+import com.example.courseDemo.service.TopicService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

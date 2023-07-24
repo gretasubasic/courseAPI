@@ -1,6 +1,6 @@
-package com.example.courseDemo.user;
+package com.example.courseDemo.repository;
 
-import org.apache.catalina.User;
+import com.example.courseDemo.model.MyUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

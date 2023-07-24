@@ -1,10 +1,9 @@
-package com.example.courseDemo.topic;
+package com.example.courseDemo.controller;
 
-import org.springframework.security.core.Authentication;
-import org.springframework.security.core.GrantedAuthority;
+import com.example.courseDemo.model.Topic;
+import com.example.courseDemo.service.TopicService;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Collection;
 import java.util.List;
 
 @RestController

@@ -1,8 +1,7 @@
-package com.example.courseDemo.roles;
+package com.example.courseDemo.model;
 
-import com.example.courseDemo.user.MyUser;
+import com.example.courseDemo.model.MyUser;
 import jakarta.persistence.*;
-import org.springframework.security.core.GrantedAuthority;
 
 import java.util.Set;
 

@@ -1,8 +1,7 @@
-package com.example.courseDemo.lessons;
+package com.example.courseDemo.model;
 
-import com.example.courseDemo.course.Course;
+import com.example.courseDemo.model.Course;
 import com.fasterxml.jackson.annotation.JsonBackReference;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 
 @Entity

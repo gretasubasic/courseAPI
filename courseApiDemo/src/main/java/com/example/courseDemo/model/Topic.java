@@ -1,6 +1,6 @@
-package com.example.courseDemo.topic;
+package com.example.courseDemo.model;
 
-import com.example.courseDemo.course.Course;
+import com.example.courseDemo.model.Course;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
 

@@ -1,6 +1,5 @@
-package com.example.courseDemo.user;
+package com.example.courseDemo.model;
 
-import com.example.courseDemo.roles.Role;
 import jakarta.persistence.*;
 
 import java.util.Set;

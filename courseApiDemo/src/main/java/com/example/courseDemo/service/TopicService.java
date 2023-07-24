@@ -1,5 +1,7 @@
-package com.example.courseDemo.topic;
+package com.example.courseDemo.service;
 
+import com.example.courseDemo.model.Topic;
+import com.example.courseDemo.repository.TopicRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
