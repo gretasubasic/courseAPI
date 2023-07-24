@@ -11,16 +11,16 @@ The purpose of this project is to showcase a fully functional CRUD application d
    - GET '/topics/topicId/courses/id'
    - POST '/topics/topicId/courses'
 
-   GET '/courses/courseId/lessons'
-   POST '/courses/courseId/lessons'
-   DELETE '/courses/courseId/lessons/lessonId'
-   UPDATE '/courses/courseId/lessons/lessonId'
+   - GET '/courses/courseId/lessons'
+   - POST '/courses/courseId/lessons'
+   - DELETE '/courses/courseId/lessons/lessonId'
+   - UPDATE '/courses/courseId/lessons/lessonId'
 
-   GET '/topics'
-   GET '/topics/id'
-   POST '/topics'
-   UPDATE '/topics/id'
-   DELETE '/topics/id'
+   - GET '/topics'
+   - GET '/topics/id'
+   - POST '/topics'
+   - UPDATE '/topics/id'
+   - DELETE '/topics/id'
    
 
     
