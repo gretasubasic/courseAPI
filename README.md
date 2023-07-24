@@ -7,9 +7,9 @@ The purpose of this project is to showcase a fully functional CRUD application d
 
 # Endpoints 
 
-   GET  '/topics/topicId/courses'
-   GET '/topics/topicId/courses/id'
-   POST '/topics/topicId/courses'
+   - GET  '/topics/topicId/courses'
+   - GET '/topics/topicId/courses/id'
+   - POST '/topics/topicId/courses'
 
    GET '/courses/courseId/lessons'
    POST '/courses/courseId/lessons'
